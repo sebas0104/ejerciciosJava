@@ -37,7 +37,7 @@ public class Alumno {
 	public int getNota2() {
 		return nota2;
 	}	    		
-	//  Operaciones p�blicas
+	//  Operaciones publicas
 	public double promedio() {
 		return (nota1 + nota2) / 2.0;
 	}
