@@ -1,7 +1,7 @@
 package semana_02;
 
 public class Alumno {
-	
+	// hola
 	//  Atributos privados
 	private int codigo, nota1, nota2;
 	private String nombre;
