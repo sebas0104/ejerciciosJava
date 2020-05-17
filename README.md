@@ -1,0 +1,2 @@
+# ejerciciosJava
+projecto semana02
